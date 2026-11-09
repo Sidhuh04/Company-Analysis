@@ -1,0 +1,2 @@
+This project focuses on analyzing employee data from ABC Company using Python and its data analysis and visualization libraries. The main objective is to explore the employee dataset, identify workforce distribution patterns, understand salary expenditure across teams and positions, and examine the relationship between employee age and salary.
+The project follows a structured data analysis workflow, starting with data preprocessing and continuing through exploratory data analysis (EDA), graphical visualization, and interpretation of findings.
